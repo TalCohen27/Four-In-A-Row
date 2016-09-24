@@ -1,0 +1,6 @@
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex02 TalCohen 302529672 LaelCohen 301826939\A14_Ex02\bin\Debug\A14_Ex02.exe
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex02 TalCohen 302529672 LaelCohen 301826939\A14_Ex02\bin\Debug\A14_Ex02.pdb
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex02 TalCohen 302529672 LaelCohen 301826939\A14_Ex02\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex02 TalCohen 302529672 LaelCohen 301826939\A14_Ex02\obj\x86\Debug\A14_Ex02.csprojResolveAssemblyReference.cache
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex02 TalCohen 302529672 LaelCohen 301826939\A14_Ex02\obj\x86\Debug\A14_Ex02.exe
+C:\Users\tal\Documents\Visual Studio 2010\Projects\A14 Ex02 TalCohen 302529672 LaelCohen 301826939\A14_Ex02\obj\x86\Debug\A14_Ex02.pdb
